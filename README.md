@@ -1,9 +1,7 @@
 Этот раздел – об АСК-анализе и системе "ЭЙДОС-X++"
 *************************************************************************
 
-Конечно, на системе «Эйдос» как говорят «Свет клином не сошелся». Существует много очень достойных систем искусственного интеллекта. Чтобы лично убедиться в этом достаточно самостоятельно осуществить поиск в Internet, просто посмотреть файлы: NCKR-1, NCKR-2, NCKR-3, NCKR-4 или пройти по ссылкам: https://learn.microsoft.com/ru-ru/dotnet/machine-learning/how-does-mldotnet-work, http://chat.openai.com/, https://poe.com/, https://neural-university.ru/, https://dzen.ru/a/ZCKZRKvrlEMBWOk8, https://ora.ai/, https://ora.ai/explore?path=trending
-
-, https://ora.ai/eugene-lutsenko/aidos, https://poe.com/Aidos-X, https://rudalle.ru/, https://bard.google.com/, https://chatbot.theb.ai/, еще очень много отличных нейросетей: https://problembo.com/ru/services (и это здесь может пригодиться - почта на 10 минут: https://10minutemail.net/), https://poe.com/GPT-3.5-Turbo-Instruct
+Конечно, на системе «Эйдос» как говорят «Свет клином не сошелся». Существует много очень достойных систем искусственного интеллекта. Чтобы лично убедиться в этом достаточно самостоятельно осуществить поиск в Internet, просто посмотреть файлы: NCKR-1, NCKR-2, NCKR-3, NCKR-4 или пройти по ссылкам: https://learn.microsoft.com/ru-ru/dotnet/machine-learning/how-does-mldotnet-work, http://chat.openai.com/, https://poe.com/, https://neural-university.ru/, https://dzen.ru/a/ZCKZRKvrlEMBWOk8, https://ora.ai/, https://ora.ai/explore?path=trending, https://ora.ai/eugene-lutsenko/aidos, https://poe.com/Aidos-X, https://rudalle.ru/, https://bard.google.com/, https://chatbot.theb.ai/, еще очень много отличных нейросетей: https://problembo.com/ru/services (и это здесь может пригодиться - почта на 10 минут: https://10minutemail.net/), https://poe.com/GPT-3.5-Turbo-Instruct
  
 
 И все же Универсальная когнитивная аналитическая система «Эйдос-Х++» отличается от большинства из этих систем, по крайней мере, некоторыми из следующих своих параметров:
